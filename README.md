@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkianUchiha
+- 👋 Hi, I’m @MarkiDev
 - 👀 I’m interested in frontend and web services
 - 🌱 I’m currently learning frameworks and new lenguage programing
 - 💞️ I’m looking to collaborate whit people interested in web3
